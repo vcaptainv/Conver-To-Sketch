@@ -21,10 +21,6 @@ You can manually change the folder name and directory as you wish
 
 ## Sample image and its output:
 ### Input Image
-![Image of mice](https://github.com/vcaptainv/Conver-To-Sketch/blob/master/images/mice.png)
-### Output Image
-![Image of mice_sk](https://github.com/vcaptainv/Conver-To-Sketch/blob/master/images/SK_mice.png)
-### Input Image
 ![Image of NY](https://github.com/vcaptainv/Conver-To-Sketch/blob/master/images/tuan-nguyen-9lhg59wHMIA-unsplash.jpg)
 ### Output Image
 ![Image of NY_SK](https://github.com/vcaptainv/Conver-To-Sketch/blob/master/images/SK_tuan-nguyen-9lhg59wHMIA-unsplash.jpg)
