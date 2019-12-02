@@ -1,4 +1,4 @@
-# Conver-To-Sketch
+# Convert-To-Sketch
 Convert an image to pencil sketch filter by using gradient in numpy
 
 # Instructions:
